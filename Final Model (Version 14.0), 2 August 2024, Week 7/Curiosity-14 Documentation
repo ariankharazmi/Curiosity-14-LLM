@@ -4,6 +4,11 @@ Mon - Thurs - HuggingFace Transformers documentation / HuggingFace Datasets Docu
 
 Fri - Sun - Working with Week 5 and 6's LLM to optimize the most knowledge and capabilities with a reasonable amount of time for processing (final product took 3+ hours to train)
 
+-- EEP Goals Completed: (2)
+-- Learn about and utilize new emerging AI technologies by using resources (online, research, lectures, etc) to then apply knowledge gained into deliverables (Goal 1)
+-- Learn how about how prospective students who hold interest in this field can leverage existing available resources and then go on to apply that to projects themselves (Goal 2)
+
+
 ** Issues I ran into while building this**
 -- Problem-solving and patience were tested the most for this model. From running into compatibility issues, to having datasets balloon to over 100+gb within the training process, this was a tough one. One dataset is nothing compared to this.
 
